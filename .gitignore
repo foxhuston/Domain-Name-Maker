@@ -1,0 +1,16 @@
+pancake
+*.DS_Store
+*.swp
+*.hi
+*.o
+dist/
+training.txt
+*.txt
+scarlet.map
+jargon-wl/*
+scowl-7.1/*
+english-words.95
+main
+out
+*.tar
+*.lst
